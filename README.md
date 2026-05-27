@@ -23,4 +23,4 @@ Input file: tickets.csv
 
 
 Output file: tickets_classified.csv with category and description added
-![alt text](image.png)
+<img width="1694" height="382" alt="image" src="https://github.com/user-attachments/assets/a3c9cc59-c54e-4e7e-abc1-e9aaa9578b90" />
