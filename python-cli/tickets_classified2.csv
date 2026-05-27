@@ -1,8 +1,8 @@
-id,subject,body,category,description
-1,App crashes on login,"Every time I try to log in on iOS the app crashes immediately. Reinstalled twice, still happens.",bug,"iOS app crashes immediately upon login attempt, persists after reinstallation"
-2,Add dark mode please,"Would love a dark mode option, the white background hurts my eyes at night.",feature_request,User requesting dark mode option to reduce eye strain from white background at night
-3,Charged twice this month,My card was charged on the 5th and again on the 12th for the same subscription. Need a refund.,billing,Customer was double-charged for the same subscription and requests a refund
-4,How do I export my data,Looking for a way to export all my notes as a single file. Is this possible?,feature_request,User wants ability to export all notes as a single file
-5,Crashes when I upload images,Uploading any image over 2MB causes a crash. This started after the last update.,bug,Application crashes when uploading images larger than 2MB after recent update
-6,Pricing question,What's the difference between Pro and Team plans? Specifically around seat counts.,billing,Customer inquiry about differences between Pro and Team plans regarding seat counts
-7,Love the app,"Just wanted to say thanks for building this, it's saved me hours every week.",feature_request,Positive user feedback expressing appreciation for the app's time-saving benefits
+id,subject,body,category,description,confidence
+1,App crashes on login,"Every time I try to log in on iOS the app crashes immediately. Reinstalled twice, still happens.",bug,"iOS app crashes immediately upon login attempt, persists after reinstallation",0.95
+2,Add dark mode please,"Would love a dark mode option, the white background hurts my eyes at night.",feature_request,User requesting dark mode option to reduce eye strain from white background at night,0.95
+3,Charged twice this month,My card was charged on the 5th and again on the 12th for the same subscription. Need a refund.,billing,Customer was charged twice for the same subscription and is requesting a refund,0.95
+4,How do I export my data,Looking for a way to export all my notes as a single file. Is this possible?,feature_request,User requesting ability to export all notes as a single file,0.95
+5,Crashes when I upload images,Uploading any image over 2MB causes a crash. This started after the last update.,bug,Application crashes when uploading images larger than 2MB after recent update,0.95
+6,Pricing question,What's the difference between Pro and Team plans? Specifically around seat counts.,billing,Customer inquiry about pricing differences between Pro and Team plans regarding seat counts,0.95
+7,Love the app,"Just wanted to say thanks for building this, it's saved me hours every week.",feature_request,Customer expressing appreciation and positive feedback about the application,0.75

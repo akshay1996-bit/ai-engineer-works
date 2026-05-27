@@ -5,7 +5,7 @@ How to run:
 2. create a .env file in python-cli folder and paste anthropic key in below format:
 ANTHROPIC_API_KEY=<<ANTHROPIC_KEY>>
 3. Past your CSV in python-cli folder named as tickets.csv file.
-4. in terminal run command uv run classify.py
+4. in terminal run command uv run classify.py--limit=<add limit to usage>
 You are all set!!
 
 Sample Output:
